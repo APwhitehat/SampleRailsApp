@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Repository is for keeping all source code of Rails applications written as a part of Rails tutorial.
 
-Things you may want to cover:
+Each chapter's work resides on respective branch.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+see documentation.pdf for more.
